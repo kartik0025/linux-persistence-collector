@@ -27,7 +27,9 @@ and says so.
 ## Why the scope is so narrow
 
 This began as a measurement instrument for a research project on how Linux persistence artifacts survive
-an attacker's cleanup script. That paper is currently under submission.
+an attacker's cleanup script. The study was pre-registered: its scoring rules were published before any
+data was collected. The pre-registration and evidence are on Zenodo at
+[doi:10.5281/zenodo.20364642](https://doi.org/10.5281/zenodo.20364642).
 
 A research instrument has a different job from a security product. It has to check a fixed list of
 locations the same way on every run, so that results stay comparable between runs. It does not have to
